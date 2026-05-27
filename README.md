@@ -2,7 +2,7 @@
 
 > PDF 轉 Markdown 工具，支援簡體／繁體中文 OCR，專為大型 PDF（40MB+）設計。
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/pdf2md-ocr/blob/main/pdf2md_ocr.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/parrotchang/pdf2md-ocr/blob/main/pdf2md_ocr.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 
@@ -21,7 +21,7 @@
 
 ### 方法一：Google Colab（推薦，免安裝）
 
-1. 點擊上方 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/pdf2md-ocr/blob/main/pdf2md_ocr.ipynb) 徽章
+1. 點擊上方 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/parrotchang/pdf2md-ocr/blob/main/pdf2md_ocr.ipynb) 徽章
 2. 依序執行每個 cell
 3. 上傳 PDF → 等待處理 → 下載 `.md` 檔案
 
